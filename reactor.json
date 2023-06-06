@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "moonscan",
+    "branch": "master"
+  },
+  "name": "Moonscan",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1022
+}
